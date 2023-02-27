@@ -1,9 +1,6 @@
 Cos1
 Cos2
-Cos3
-Cos4
-Cos5d
+MykCos4
+Cos5dAdd
+Cos1
 
-d
-123
-Test
