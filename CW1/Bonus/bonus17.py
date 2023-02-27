@@ -20,4 +20,5 @@ while True:
     print(event, values)
     filepaths = values["files"].split(";")
     folder = values["folder"]
+    make_archive(filepaths, folder)
 window.close()
