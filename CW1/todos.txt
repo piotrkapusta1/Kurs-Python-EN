@@ -1,6 +1,3 @@
 Cos1
-Cos2
-MykCos4
-Cos5dAdd
-Cos1
-
+Make kiss
+Task3
