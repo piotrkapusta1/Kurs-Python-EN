@@ -1,5 +1,8 @@
-FILEPATH = r"C:\Users\piotr.kapusta\Desktop\Python programs\Kurs Python EN\CW1\todos.txt"
 
+import os
+
+
+FILEPATH = os.getcwd() + "\\todos.txt"
 def get_todos(filepath=FILEPATH):
 
     with open(filepath, 'r') as file_local:
