@@ -19,10 +19,11 @@ var/
 *.egg-info/
 .installed.cfg
 *.egg
-
+*.spec
 # Installer logs
 pip-log.txt
 pip-delete-this-directory.txt
+todos.txt
 
 # Unit test / coverage reports
 .tox/
