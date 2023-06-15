@@ -2,7 +2,7 @@
 import os
 
 
-FILEPATH = os.getcwd() + r"/todos.txt"
+FILEPATH = os.getcwd() + r"\todos.txt"
 def get_todos(filepath=FILEPATH):
 
     with open(filepath, 'r') as file_local:
