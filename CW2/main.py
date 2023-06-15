@@ -15,3 +15,5 @@ with col2:
     Maecenas volutpat commodo orci, vel tristique diam faucibus a. Donec est lectus, mollis et magna non, volutpat convallis libero. 
     """
     st.info(content)
+
+st.write("""Below tou can find some of the apps I have built in Python.""")
